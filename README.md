@@ -15,8 +15,8 @@ With the increasing demand for real-time data visualization and business intelli
   - 💰 Total Profit: 37K
   - 📦 Total Quantity Sold: 5615
   - 📈 Average Order Value (AOV): 121K
- 
-    ![Dashboard Screenshot](https://github.com/Pratiksurya28/Madhav-Store-Ecommerce-Dashborad/blob/main/Screenshot%202025-04-21%20155116.png)
+
+![Dashboard Screenshot](https://github.com/Pratiksurya28/Madhav-Store-Ecommerce-Dashborad/blob/main/Screenshot%202025-04-21%20155116.png)
 
 - **Visualizations Include**:
   - Profit trends by month (positive/negative)
